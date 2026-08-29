@@ -1,0 +1,96 @@
+{
+  "version": "2.0.0",
+  "icon_base": "https://raw.githubusercontent.com/1314520lovelsc/QuantumultX/main/icons/policy/",
+  "policies": [
+    {
+      "old": "🚀节点选择",
+      "name": "出站选择",
+      "icon": "outbound-select.png"
+    },
+    {
+      "old": "🌐海外默认",
+      "name": "国际网络",
+      "icon": "international-network.png"
+    },
+    {
+      "old": "🚦兜底流量",
+      "name": "最终规则",
+      "icon": "fallback.png"
+    },
+    {
+      "old": "🤖AI服务",
+      "name": "人工智能",
+      "icon": "artificial-intelligence.png"
+    },
+    {
+      "old": "🛠开发服务",
+      "name": "开发平台",
+      "icon": "developer-platform.png"
+    },
+    {
+      "old": "🔎Google",
+      "name": "网络搜索",
+      "icon": "web-search.png"
+    },
+    {
+      "old": "💬即时通讯",
+      "name": "消息通信",
+      "icon": "messaging.png"
+    },
+    {
+      "old": "👥社交平台",
+      "name": "社交媒体",
+      "icon": "social-media.png"
+    },
+    {
+      "old": "📺视频媒体",
+      "name": "视频流媒体",
+      "icon": "video-streaming.png"
+    },
+    {
+      "old": "🎵音乐服务",
+      "name": "音乐流媒体",
+      "icon": "music-streaming.png"
+    },
+    {
+      "old": "☁️云盘存储",
+      "name": "云端存储",
+      "icon": "cloud-storage.png"
+    },
+    {
+      "old": "🎮游戏服务",
+      "name": "游戏平台",
+      "icon": "gaming.png"
+    },
+    {
+      "old": "📰新闻资讯",
+      "name": "新闻媒体",
+      "icon": "news-media.png"
+    },
+    {
+      "old": "💹金融交易",
+      "name": "金融服务",
+      "icon": "finance.png"
+    },
+    {
+      "old": "🍎Apple",
+      "name": "设备服务",
+      "icon": "device-services.png"
+    },
+    {
+      "old": "🪟Microsoft",
+      "name": "生产力服务",
+      "icon": "productivity.png"
+    },
+    {
+      "old": "💚微信",
+      "name": "微信服务",
+      "icon": "wechat-service.png"
+    },
+    {
+      "old": "🛑广告拦截",
+      "name": "广告拦截",
+      "icon": "ad-blocking.png"
+    }
+  ]
+}
